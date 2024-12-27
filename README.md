@@ -6,7 +6,7 @@ This project is a clone of Google Search, built using React.js, Material UI, and
 
 To view the live version of this project, simply click on the link below:
 
-[View the Google Clone](https://google-clone-by6k.vercel.app/)
+[View the Google Clone](https://google-clone-jet-nu.vercel.app/)
 
 ## Project Overview
 
