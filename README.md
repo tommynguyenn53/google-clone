@@ -2,6 +2,12 @@
 
 This project is a clone of Google Search, built using React.js, Material UI, and a custom Google Search API integration. The application allows users to search for information and displays results similar to the Google Search page.
 
+## Live Demo
+
+To view the live version of this project, simply click on the link below:
+
+[View the Google Clone](https://google-clone-by6k.vercel.app/)
+
 ## Project Overview
 
 The Google Clone app mimics the search functionality of Google, allowing users to type in a query and view search results. The results are fetched using the Google Custom Search API and displayed in a user-friendly format. 
